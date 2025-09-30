@@ -83,9 +83,9 @@ const char* apiKey = "YOUR_API_KEY_HERE";
 
 ### 🛠️ Hardware Required
 
-ESP8266 (NodeMCU, Wemos D1 Mini, etc.)
-USB cable
-WiFi network
+- ESP8266 (NodeMCU, Wemos D1 Mini, etc.)
+- USB cable
+- WiFi network
 
 ### ⚠️ Notes
 - Powering ESP via router USB is safe but use a 5V/1A adapter for stability.
