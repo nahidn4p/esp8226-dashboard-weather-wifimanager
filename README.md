@@ -1,6 +1,4 @@
-# esp8226-dashboard-weather-wifimanager
-
-# ESP8266 WiFi Connect Dashboard
+# ESP8266 WiFi Connect + Weather Dashboard
 
 This project runs on an **ESP8266 (e.g., NodeMCU, Wemos D1 mini)** and provides a web dashboard with live weather data from **OpenWeatherMap**, device information, and LED control.  
 
